@@ -7,7 +7,7 @@ This README is for whoever maintains the skill. Reps don't need it; setup happen
 ## What a rep does
 
 1. Save `influ2-signal-emails.zip` somewhere findable. Don't unzip it.
-2. In the Claude desktop app, click **Customize** in the left sidebar, then **Skills**. Click **+**, choose **Create skill**, then **Upload a skill**, and pick the zip. (If Customize isn't in the sidebar, use claude.ai/customize/skills in a browser; skills are account-level and show up in the desktop app either way.)
+2. In the Claude desktop app, click **Customize** in the left sidebar, then **Skills**. Click **Add**, then **Upload a skill**, and pick the zip. (If Customize isn't in the sidebar, use claude.ai/customize/skills in a browser; skills are account-level and show up in the desktop app either way.)
 3. Make sure the toggle next to "Influ2 Signal Emails" is on.
 4. Open a new Cowork chat and type: **set up Influ2 signal emails**
 5. Answer Claude's questions. Setup checks connectors, confirms who to scan for, asks for a few sent emails to learn their voice, walks them through cloning the HubSpot sequence, shows two test drafts, then creates the recurring scheduled task. About ten minutes.
